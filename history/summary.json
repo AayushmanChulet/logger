@@ -4,7 +4,7 @@
     "url": "https://airbnb-clone-vvjd.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/airbnb-clone-vvjd.onrender.com.ico",
     "slug": "airbnb-clone",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.44%",
@@ -16,6 +16,7 @@
     "timeMonth": 1653,
     "timeYear": 1653,
     "dailyMinutesDown": {
+      "2025-03-06": 0,
       "2025-03-04": 18
     }
   }
